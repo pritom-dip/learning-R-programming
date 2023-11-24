@@ -4,8 +4,6 @@ str <- "Hello"
 str # print the value of str
 
 str <- "Lorem ipsum dolor sit amet,
-consectetur adipiscing elit,
-sed do eiusmod tempor incididunt
-ut labore et dolore magna aliqua."
+consectetur adipiscing elit,"
 
 str # print the value of str

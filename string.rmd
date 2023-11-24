@@ -7,3 +7,6 @@ str <- "Lorem ipsum dolor sit amet,
 consectetur adipiscing elit,"
 
 str # print the value of str
+str <- "Hello World!"
+
+nchar(str)

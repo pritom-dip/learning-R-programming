@@ -2,3 +2,12 @@
 5 + 5
 # This is a comment
 "Hello World!"# This is a comment
+
+ Use R code generate the first algorithm’s 
+index 
+• State of the art/Literature review. 
+• Correct reference format (IEEE style). 
+• Cite 5 references. Do not cite over 10 
+references.
+• Very well-defined introduction with two 
+algorithms
